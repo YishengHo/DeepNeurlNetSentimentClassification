@@ -1,0 +1,40 @@
+
+Evaluation round 1:
+topacc: 0.6310   RMSE: 0.8558    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/huapa_deep_dens_bi_drop_relu6/checkpoints/TG_full/1543997332/model-200
+
+
+Evaluation round 2:
+topacc: 0.6640   RMSE: 0.7953    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/huapa_deep_dens_bi_drop_relu6/checkpoints/TG_full/1543997332/model-400
+
+
+Evaluation round 3:
+topacc: 0.6677   RMSE: 0.8725    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/huapa_deep_dens_bi_drop_relu6/checkpoints/TG_full/1543997332/model-600
+
+
+Evaluation round 4:
+topacc: 0.6968   RMSE: 0.7691    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/huapa_deep_dens_bi_drop_relu6/checkpoints/TG_full/1543997332/model-800
+
+
+Evaluation round 5:
+topacc: 0.7033   RMSE: 0.7260    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/huapa_deep_dens_bi_drop_relu6/checkpoints/TG_full/1543997332/model-1000
+
+
+Evaluation round 6:
+topacc: 0.7057   RMSE: 0.7522    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/huapa_deep_dens_bi_drop_relu6/checkpoints/TG_full/1543997332/model-1200
+
+
+Evaluation round 7:
+topacc: 0.7097   RMSE: 0.7556    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/huapa_deep_dens_bi_drop_relu6/checkpoints/TG_full/1543997332/model-1400
+
+
+Evaluation round 8:
+topacc: 0.7146   RMSE: 0.7093    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/huapa_deep_dens_bi_drop_relu6/checkpoints/TG_full/1543997332/model-1600
+
+
+Evaluation round 12:
+topacc: 0.7234   RMSE: 0.6743    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/huapa_deep_dens_bi_drop_relu6/checkpoints/TG_full/1543997332/model-2400
+
+
+Evaluation round 13:
+topacc: 0.7259   RMSE: 0.6817    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/huapa_deep_dens_bi_drop_relu6/checkpoints/TG_full/1543997332/model-2600
+

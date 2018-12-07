@@ -1,0 +1,18 @@
+
+para: Namespace(allow_soft_placement=True, batch_size=100, dataset='MTV_small', embedding_dim=200, evaluate_every=200, hidden_size=100, log_device_placement=False, lr=0.001, max_doc_len=40, max_sen_len=50, n_class=5, num_epochs=30)
+
+para: Namespace(allow_soft_placement=True, batch_size=100, dataset='MTV_small', embedding_dim=200, evaluate_every=200, hidden_size=100, log_device_placement=False, lr=0.001, max_doc_len=40, max_sen_len=50, n_class=5, num_epochs=30)
+
+para: Namespace(allow_soft_placement=True, batch_size=100, dataset='MTV_small', embedding_dim=200, evaluate_every=200, hidden_size=100, log_device_placement=False, lr=0.001, max_doc_len=40, max_sen_len=50, n_class=5, num_epochs=30)
+
+Evaluation round 1:
+topacc: 0.5885   RMSE: 0.9969    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/MTV_small/1543731165/model-200
+
+
+Evaluation round 1:
+topacc: 0.5895   RMSE: 1.0706    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/MTV_small/1543731291/model-200
+
+
+Evaluation round 2:
+topacc: 0.6257   RMSE: 0.9637    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/MTV_small/1543731165/model-400
+

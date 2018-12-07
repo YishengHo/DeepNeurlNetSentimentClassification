@@ -1,0 +1,21 @@
+
+Evaluation round 1:
+topacc: 0.6785   RMSE: 0.8639
+
+Evaluation round 2:
+topacc: 0.6908   RMSE: 0.8567
+
+Evaluation round 3:
+topacc: 0.7068   RMSE: 0.7879
+
+Evaluation round 4:
+topacc: 0.7152   RMSE: 0.7646
+
+Evaluation round 5:
+topacc: 0.7242   RMSE: 0.7665
+
+Evaluation round 8:
+topacc: 0.7310   RMSE: 0.7493
+
+Evaluation round 12:
+topacc: 0.7385   RMSE: 0.7045

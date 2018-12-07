@@ -1,0 +1,46 @@
+
+para: Namespace(allow_soft_placement=True, batch_size=100, dataset='TG_sum_full', embedding_dim=200, evaluate_every=200, hidden_size=100, log_device_placement=False, lr=0.001, max_doc_len=40, max_sen_len=50, n_class=5, num_epochs=30)
+
+Evaluation round 1:
+topacc: 0.6584   RMSE: 0.9472    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/TG_sum_full/1543730847/model-200
+
+
+Evaluation round 2:
+topacc: 0.6618   RMSE: 0.9345    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/TG_sum_full/1543730847/model-400
+
+
+Evaluation round 3:
+topacc: 0.6746   RMSE: 0.9130    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/TG_sum_full/1543730847/model-600
+
+
+Evaluation round 4:
+topacc: 0.6822   RMSE: 0.8664    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/TG_sum_full/1543730847/model-800
+
+
+Evaluation round 5:
+topacc: 0.6832   RMSE: 0.8249    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/TG_sum_full/1543730847/model-1000
+
+
+Evaluation round 6:
+topacc: 0.6917   RMSE: 0.8371    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/TG_sum_full/1543730847/model-1200
+
+
+Evaluation round 7:
+topacc: 0.6967   RMSE: 0.8087    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/TG_sum_full/1543730847/model-1400
+
+
+Evaluation round 8:
+topacc: 0.6970   RMSE: 0.8120    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/TG_sum_full/1543730847/model-1600
+
+
+Evaluation round 12:
+topacc: 0.6990   RMSE: 0.7937    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/TG_sum_full/1543730847/model-2400
+
+
+Evaluation round 13:
+topacc: 0.7040   RMSE: 0.7780    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/TG_sum_full/1543730847/model-2600
+
+
+Evaluation round 18:
+topacc: 0.7022   RMSE: 0.7817    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/TG_sum_full/1543730847/model-3600
+

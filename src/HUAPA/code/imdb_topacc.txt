@@ -1,0 +1,34 @@
+
+para: Namespace(allow_soft_placement=True, batch_size=100, dataset='imdb', embedding_dim=200, evaluate_every=200, hidden_size=100, log_device_placement=False, lr=0.005, max_doc_len=40, max_sen_len=50, n_class=10, num_epochs=30)
+
+Evaluation round 1:
+topacc: 0.4389   RMSE: 1.4651    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/imdb/1543904898/model-200
+
+
+Evaluation round 2:
+topacc: 0.4545   RMSE: 1.3426    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/imdb/1543904898/model-400
+
+
+Evaluation round 3:
+topacc: 0.4967   RMSE: 1.3146    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/imdb/1543904898/model-600
+
+
+Evaluation round 5:
+topacc: 0.5140   RMSE: 1.2843    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/imdb/1543904898/model-1000
+
+
+Evaluation round 6:
+topacc: 0.5249   RMSE: 1.2513    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/imdb/1543904898/model-1200
+
+
+Evaluation round 8:
+topacc: 0.5275   RMSE: 1.2515    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/imdb/1543904898/model-1600
+
+
+Evaluation round 10:
+topacc: 0.5405   RMSE: 1.2363    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/imdb/1543904898/model-2000
+
+
+Evaluation round 12:
+topacc: 0.5347   RMSE: 1.2263    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/imdb/1543904898/model-2400
+

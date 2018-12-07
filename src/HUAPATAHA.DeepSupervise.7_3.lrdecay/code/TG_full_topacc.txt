@@ -1,0 +1,49 @@
+train 46 round.
+
+Evaluation round 1:
+topacc: 0.6729   RMSE: 0.8201    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPATAHA.DeepSupervise.7_3.lrdecay/checkpoints/TG_full/1543723898/model-200
+
+
+Evaluation round 2:
+topacc: 0.6933   RMSE: 0.7144    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPATAHA.DeepSupervise.7_3.lrdecay/checkpoints/TG_full/1543723898/model-400
+
+
+Evaluation round 3:
+topacc: 0.6988   RMSE: 0.7311    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPATAHA.DeepSupervise.7_3.lrdecay/checkpoints/TG_full/1543723898/model-600
+
+
+Evaluation round 4:
+topacc: 0.7155   RMSE: 0.6987    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPATAHA.DeepSupervise.7_3.lrdecay/checkpoints/TG_full/1543723898/model-800
+
+
+Evaluation round 6:
+topacc: 0.7201   RMSE: 0.6852    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPATAHA.DeepSupervise.7_3.lrdecay/checkpoints/TG_full/1543723898/model-1200
+
+
+Evaluation round 7:
+topacc: 0.7225   RMSE: 0.6721    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPATAHA.DeepSupervise.7_3.lrdecay/checkpoints/TG_full/1543723898/model-1400
+
+
+Evaluation round 8:
+topacc: 0.7289   RMSE: 0.6837    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPATAHA.DeepSupervise.7_3.lrdecay/checkpoints/TG_full/1543723898/model-1600
+
+
+Evaluation round 10:
+topacc: 0.7320   RMSE: 0.6532    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPATAHA.DeepSupervise.7_3.lrdecay/checkpoints/TG_full/1543723898/model-2000
+
+
+Evaluation round 11:
+topacc: 0.7364   RMSE: 0.6522    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPATAHA.DeepSupervise.7_3.lrdecay/checkpoints/TG_full/1543723898/model-2200
+
+
+Evaluation round 12:
+topacc: 0.7369   RMSE: 0.6578    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPATAHA.DeepSupervise.7_3.lrdecay/checkpoints/TG_full/1543723898/model-2400
+
+
+Evaluation round 13:
+topacc: 0.7408   RMSE: 0.6380    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPATAHA.DeepSupervise.7_3.lrdecay/checkpoints/TG_full/1543723898/model-2600
+
+
+Evaluation round 20:
+topacc: 0.7409   RMSE: 0.6519    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPATAHA.DeepSupervise.7_3.lrdecay/checkpoints/TG_full/1543723898/model-4000
+

@@ -1,0 +1,22 @@
+train 50 round:
+
+Evaluation round 1:
+topacc: 0.6668   RMSE: 0.8015
+
+Evaluation round 2:
+topacc: 0.6977   RMSE: 0.7272
+
+Evaluation round 3:
+topacc: 0.7162   RMSE: 0.6951
+
+Evaluation round 4:
+topacc: 0.7248   RMSE: 0.6976
+
+Evaluation round 5:
+topacc: 0.7332   RMSE: 0.6517
+
+Evaluation round 7:
+topacc: 0.7334   RMSE: 0.6796
+
+Evaluation round 10:
+topacc: 0.7402   RMSE: 0.6538

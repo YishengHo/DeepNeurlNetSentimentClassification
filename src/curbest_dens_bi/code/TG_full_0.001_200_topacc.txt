@@ -1,0 +1,60 @@
+
+Evaluation round 1:
+topacc: 0.6448   RMSE: 0.8698    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/curbest_dens_bi/checkpoints/TG_full/1543998314/model-200
+
+
+Evaluation round 2:
+topacc: 0.6602   RMSE: 0.8443    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/curbest_dens_bi/checkpoints/TG_full/1543998314/model-400
+
+
+Evaluation round 3:
+topacc: 0.6808   RMSE: 0.7875    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/curbest_dens_bi/checkpoints/TG_full/1543998314/model-600
+
+
+Evaluation round 4:
+topacc: 0.6847   RMSE: 0.8022    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/curbest_dens_bi/checkpoints/TG_full/1543998314/model-800
+
+
+Evaluation round 5:
+topacc: 0.6995   RMSE: 0.7558    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/curbest_dens_bi/checkpoints/TG_full/1543998314/model-1000
+
+
+Evaluation round 6:
+topacc: 0.7030   RMSE: 0.7241    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/curbest_dens_bi/checkpoints/TG_full/1543998314/model-1200
+
+
+Evaluation round 7:
+topacc: 0.7097   RMSE: 0.7381    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/curbest_dens_bi/checkpoints/TG_full/1543998314/model-1400
+
+
+Evaluation round 8:
+topacc: 0.7109   RMSE: 0.7179    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/curbest_dens_bi/checkpoints/TG_full/1543998314/model-1600
+
+
+Evaluation round 9:
+topacc: 0.7123   RMSE: 0.7007    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/curbest_dens_bi/checkpoints/TG_full/1543998314/model-1800
+
+
+Evaluation round 10:
+topacc: 0.7161   RMSE: 0.6987    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/curbest_dens_bi/checkpoints/TG_full/1543998314/model-2000
+
+
+Evaluation round 11:
+topacc: 0.7190   RMSE: 0.6741    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/curbest_dens_bi/checkpoints/TG_full/1543998314/model-2200
+
+
+Evaluation round 12:
+topacc: 0.7184   RMSE: 0.6827    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/curbest_dens_bi/checkpoints/TG_full/1543998314/model-2400
+
+
+Evaluation round 13:
+topacc: 0.7264   RMSE: 0.6821    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/curbest_dens_bi/checkpoints/TG_full/1543998314/model-2600
+
+
+Evaluation round 20:
+topacc: 0.7346   RMSE: 0.6823    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/curbest_dens_bi/checkpoints/TG_full/1543998314/model-4000
+
+
+Evaluation round 27:
+topacc: 0.7268   RMSE: 0.6566    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/curbest_dens_bi/checkpoints/TG_full/1543998314/model-5400
+

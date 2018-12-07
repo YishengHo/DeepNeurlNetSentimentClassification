@@ -1,0 +1,66 @@
+train 40 round 
+para: Namespace(allow_soft_placement=True, batch_size=100, dataset='SO_spb_full', embedding_dim=200, evaluate_every=200, hidden_size=100, log_device_placement=False, lr=0.001, max_doc_len=40, max_sen_len=50, n_class=5, num_epochs=30)
+
+Evaluation round 1:
+topacc: 0.6813   RMSE: 0.7752    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/SO_spb_full/1543731260/model-200
+
+
+Evaluation round 2:
+topacc: 0.7179   RMSE: 0.7022    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/SO_spb_full/1543731260/model-400
+
+
+Evaluation round 3:
+topacc: 0.7331   RMSE: 0.6820    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/SO_spb_full/1543731260/model-600
+
+
+Evaluation round 4:
+topacc: 0.7381   RMSE: 0.6876    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/SO_spb_full/1543731260/model-800
+
+
+Evaluation round 5:
+topacc: 0.7473   RMSE: 0.6502    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/SO_spb_full/1543731260/model-1000
+
+
+Evaluation round 6:
+topacc: 0.7519   RMSE: 0.6410    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/SO_spb_full/1543731260/model-1200
+
+
+Evaluation round 7:
+topacc: 0.7540   RMSE: 0.6185    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/SO_spb_full/1543731260/model-1400
+
+
+Evaluation round 8:
+topacc: 0.7556   RMSE: 0.6573    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/SO_spb_full/1543731260/model-1600
+
+
+Evaluation round 9:
+topacc: 0.7600   RMSE: 0.6193    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/SO_spb_full/1543731260/model-1800
+
+
+Evaluation round 10:
+topacc: 0.7614   RMSE: 0.6291    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/SO_spb_full/1543731260/model-2000
+
+
+Evaluation round 11:
+topacc: 0.7656   RMSE: 0.6099    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/SO_spb_full/1543731260/model-2200
+
+
+Evaluation round 16:
+topacc: 0.7685   RMSE: 0.5779    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/SO_spb_full/1543731260/model-3200
+
+
+Evaluation round 17:
+topacc: 0.7744   RMSE: 0.6085    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/SO_spb_full/1543731260/model-3400
+
+
+Evaluation round 18:
+topacc: 0.7741   RMSE: 0.6009    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/SO_spb_full/1543731260/model-3600
+
+
+Evaluation round 21:
+topacc: 0.7716   RMSE: 0.5932    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/SO_spb_full/1543731260/model-4200
+
+
+Evaluation round 35:
+topacc: 0.7762   RMSE: 0.5814    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/HUAPA/checkpoints/SO_spb_full/1543731260/model-7000
+

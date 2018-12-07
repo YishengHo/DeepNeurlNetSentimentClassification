@@ -1,0 +1,40 @@
+
+para: Namespace(allow_soft_placement=True, batch_size=100, dataset='TG_full', embedding_dim=256, evaluate_every=200, hidden_size=128, log_device_placement=False, lr=0.005, max_doc_len=40, max_sen_len=50, n_class=5, num_epochs=30)
+
+para: Namespace(allow_soft_placement=True, batch_size=100, dataset='TG_full', embedding_dim=256, evaluate_every=200, hidden_size=64, log_device_placement=False, lr=0.005, max_doc_len=40, max_sen_len=50, n_class=5, num_epochs=30)
+
+Evaluation round 1:
+topacc: 0.6725   RMSE: 0.8247    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/struct_huapa_w_wawa/checkpoints/TG_full/1543993145/model-200
+
+
+Evaluation round 2:
+topacc: 0.6840   RMSE: 0.8036    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/struct_huapa_w_wawa/checkpoints/TG_full/1543993145/model-400
+
+
+Evaluation round 3:
+topacc: 0.6976   RMSE: 0.7661    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/struct_huapa_w_wawa/checkpoints/TG_full/1543993145/model-600
+
+
+Evaluation round 5:
+topacc: 0.7009   RMSE: 0.7466    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/struct_huapa_w_wawa/checkpoints/TG_full/1543993145/model-1000
+
+
+Evaluation round 6:
+topacc: 0.7129   RMSE: 0.7469    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/struct_huapa_w_wawa/checkpoints/TG_full/1543993145/model-1200
+
+
+Evaluation round 8:
+topacc: 0.7107   RMSE: 0.7229    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/struct_huapa_w_wawa/checkpoints/TG_full/1543993145/model-1600
+
+
+Evaluation round 10:
+topacc: 0.7225   RMSE: 0.7095    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/struct_huapa_w_wawa/checkpoints/TG_full/1543993145/model-2000
+
+
+Evaluation round 11:
+topacc: 0.7257   RMSE: 0.6915    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/struct_huapa_w_wawa/checkpoints/TG_full/1543993145/model-2200
+
+
+Evaluation round 13:
+topacc: 0.7281   RMSE: 0.6934    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/struct_huapa_w_wawa/checkpoints/TG_full/1543993145/model-2600
+

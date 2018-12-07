@@ -1,0 +1,2 @@
+
+para: Namespace(allow_soft_placement=True, batch_size=100, dataset='TG_full', embedding_dim=256, evaluate_every=200, hidden_size=32, log_device_placement=False, lr=0.002, max_doc_len=40, max_sen_len=50, n_class=5, num_epochs=30)

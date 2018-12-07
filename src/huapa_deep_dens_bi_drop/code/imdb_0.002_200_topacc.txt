@@ -1,0 +1,32 @@
+
+Evaluation round 1:
+topacc: 0.3241   RMSE: 1.6402    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/huapa_deep_dens_bi_drop/checkpoints/imdb/1543904566/model-200
+
+
+Evaluation round 2:
+topacc: 0.4180   RMSE: 1.5364    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/huapa_deep_dens_bi_drop/checkpoints/imdb/1543904566/model-400
+
+
+Evaluation round 3:
+topacc: 0.4701   RMSE: 1.3716    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/huapa_deep_dens_bi_drop/checkpoints/imdb/1543904566/model-600
+
+
+Evaluation round 4:
+topacc: 0.4913   RMSE: 1.3665    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/huapa_deep_dens_bi_drop/checkpoints/imdb/1543904566/model-800
+
+
+Evaluation round 5:
+topacc: 0.5027   RMSE: 1.3175    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/huapa_deep_dens_bi_drop/checkpoints/imdb/1543904566/model-1000
+
+
+Evaluation round 6:
+topacc: 0.5148   RMSE: 1.3016    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/huapa_deep_dens_bi_drop/checkpoints/imdb/1543904566/model-1200
+
+
+Evaluation round 8:
+topacc: 0.5184   RMSE: 1.2743    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/huapa_deep_dens_bi_drop/checkpoints/imdb/1543904566/model-1600
+
+
+Evaluation round 10:
+topacc: 0.5260   RMSE: 1.2046    mdlID: /unsullied/sharefs/heyisheng/isilon/workspace/sentiment_classification/HUAPA/huapa_deep_dens_bi_drop/checkpoints/imdb/1543904566/model-2000
+
